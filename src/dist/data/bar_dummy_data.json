@@ -1,0 +1,154 @@
+{
+  "app": {
+    "pie": {
+      "name": "My Pie Chart",
+      "data": [
+        {
+          "name": "Group A",
+          "value": 12,
+          "color": "#123123"
+        },
+        {
+          "name": "Group B",
+          "value": 300,
+          "color": "#634334"
+        },
+        {
+          "name": "Group C",
+          "value": 300,
+          "color": "#92fa56"
+        },
+        {
+          "name": "Group D",
+          "value": 200,
+          "color": "#aa4234"
+        },
+        {
+          "name": "Group E",
+          "value": 278,
+          "color": "#ccccc5"
+        },
+        {
+          "name": "Group F",
+          "value": 289,
+          "color": "#b456bb"
+        }
+      ]
+    },
+    "xy": {
+      "name": "XY Chart",
+      "series": [
+        {
+          "name": "Series1x",
+          "color": "#82ca9d",
+          "data": [
+            {
+              "x": 12,
+              "y": 17
+            },
+            {
+              "x": 152,
+              "y": 22
+            },
+            {
+              "x": 112,
+              "y": 17
+            },
+            {
+              "x": 122,
+              "y": 11
+            }
+          ]
+        },
+        {
+          "name": "Series2x",
+          "color": "#2239ca",
+          "data": [
+            {
+              "x": 122,
+              "y": 33
+            },
+            {
+              "x": 33,
+              "y": 44
+            },
+            {
+              "x": 44,
+              "y": 17
+            },
+            {
+              "x": 122,
+              "y": 17
+            }
+          ]
+        }
+      ]
+    },
+    "bar": {
+      "name": "Bar Chart",
+      "isFetching": true,
+      "categories": [
+        "Apple",
+        "Orange",
+        "Banana",
+        "Peach"
+      ],
+      "series": [
+        {
+          "name": "Germany",
+          "color": "#82ca9d",
+          "data": [
+            {
+              "y": 17
+            },
+            {
+              "y": 43
+            },
+            {
+              "y": 73
+            },
+            {
+              "y": 23
+            }
+          ]
+        },
+        {
+          "name": "Holland",
+          "color": "#2239ca",
+          "data": [
+            {
+              "y": 17
+            },
+            {
+              "y": 13
+            },
+            {
+              "y": 43
+            },
+            {
+              "y": 23
+            }
+          ]
+        },
+        {
+          "name": "Mexico",
+          "color": "#c2a5ca",
+          "data": [
+            {
+              "y": 17
+            },
+            {
+              "y": 11
+            },
+            {
+              "y": 41
+            },
+            {
+              "y": 27
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

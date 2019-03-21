@@ -1,0 +1,70 @@
+{
+  "app": {
+    "bar": {
+      "name": "My Bar Chart",
+      "isFetching": true,
+      "categories": [
+        "Apple",
+        "Orange",
+        "Banana",
+        "Peach"
+      ],
+      "series": [
+        {
+          "name": "Germany",
+          "color": "#82ca9d",
+          "data": [
+            {
+              "y": 17
+            },
+            {
+              "y": 43
+            },
+            {
+              "y": 73
+            },
+            {
+              "y": 23
+            }
+          ]
+        },
+        {
+          "name": "Holland",
+          "color": "#2239ca",
+          "data": [
+            {
+              "y": 17
+            },
+            {
+              "y": 13
+            },
+            {
+              "y": 43
+            },
+            {
+              "y": 23
+            }
+          ]
+        },
+        {
+          "name": "Mexico",
+          "color": "#c2a5ca",
+          "data": [
+            {
+              "y": 17
+            },
+            {
+              "y": 11
+            },
+            {
+              "y": 41
+            },
+            {
+              "y": 27
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
