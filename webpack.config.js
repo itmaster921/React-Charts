@@ -8,7 +8,7 @@ module.exports = {
   entry: ["babel-polyfill", "./js/client.js"],
 
   output: {
-    path: __dirname + "/src/dist/",
+
     filename: "client.min.js"
   },
 

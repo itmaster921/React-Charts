@@ -12,7 +12,7 @@ import createSagaMiddleware from 'redux-saga'
 
 import {reducer as barReducer} from './components/chart/bar/reducer.js'
 import {reducer as xyReducer} from './components/chart/xy/reducer.js'
-import {reducer as pieReducer} from './components/chart/pie/reducer.js'
+
 
 import { createStore, combineReducers , applyMiddleware, compose} from 'redux'
 import Immutable from "immutable";
