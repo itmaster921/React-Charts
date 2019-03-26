@@ -1,7 +1,7 @@
 import React from "react";
 
 import './style.less';
-import { spring, AnimatedSwitch } from 'react-router-transition';
+// import { spring, AnimatedSwitch } from 'react-router-transition';
 
 /**
  * Adds bouncy animation to route switching
