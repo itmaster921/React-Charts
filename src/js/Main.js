@@ -9,7 +9,7 @@ import XYChartPage from "./components/chart/xy/ui/XYChartContainer";
 import WelcomePage from "./components/WelcomePage";
 
 import BouncySwitch from "./BouncySwitch"
-import FadeSwitch from "./FadeSwitch"
+// import FadeSwitch from "./FadeSwitch"
 
 
 
