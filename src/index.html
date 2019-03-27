@@ -19,14 +19,14 @@
 <div id="app"></div>
 <script src="client.min.js">
 
-  // window.addEventListener("beforeunload", function (event) {
-  //   // Cancel the event as stated by the standard.
-  //   event.preventDefault();
-  //   // Chrome requires returnValue to be set.
-  //   event.returnValue = '';
-  //
-  //   alert("hi")
-  // });
+  window.addEventListener("beforeunload", function (event) {
+    // Cancel the event as stated by the standard.
+    event.preventDefault();
+    // Chrome requires returnValue to be set.
+    event.returnValue = '';
+  
+    alert("hi")
+  });
 
 
 </script>
